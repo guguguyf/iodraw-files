@@ -1,0 +1,142 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="UoNpnRYvqOvKtBLXjJ4H" name="第 1 页">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-1" value="智慧停车场管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="20" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-2" value="系统功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-3" value="停车计费功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-4" value="记录功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-5" value="用户信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="80" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-6" value="车位信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="155" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-7" value="车辆进出管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="230" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-9" value="泊位预约" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="300" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-10" value="余额充值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="375" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-11" value="驶出扣费" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="450" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-12" value="停车缴费记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-13" value="用户登录日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="640" y="260" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-14" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" target="JQHdStCp-hvUX9Pofs2S-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-3" target="JQHdStCp-hvUX9Pofs2S-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="sourcePoint" />
+            <mxPoint x="490" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-16" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="110" as="sourcePoint" />
+            <mxPoint x="400" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-17" value="" style="endArrow=none;html=1;exitX=0.331;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-18" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.72000000000003" y="161.26" as="sourcePoint" />
+            <mxPoint x="180" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-19" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-6" target="JQHdStCp-hvUX9Pofs2S-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="sourcePoint" />
+            <mxPoint x="490" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="475" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="230" as="sourcePoint" />
+            <mxPoint x="665" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="665" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-22" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" target="JQHdStCp-hvUX9Pofs2S-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="sourcePoint" />
+            <mxPoint x="285" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-23" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-3" target="JQHdStCp-hvUX9Pofs2S-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="sourcePoint" />
+            <mxPoint x="490" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-24" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="sourcePoint" />
+            <mxPoint x="620" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQHdStCp-hvUX9Pofs2S-25" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="JQHdStCp-hvUX9Pofs2S-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="130" as="sourcePoint" />
+            <mxPoint x="590" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
