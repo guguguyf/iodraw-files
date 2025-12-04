@@ -46,8 +46,8 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-15" value="&lt;font color=&quot;#9ac7bf&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;标题&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 9pt;&quot;&gt;一个平台&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="382" y="16" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-16" value="文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="388.5" y="60.5" width="142" height="42" as="geometry" />
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-16" value="&lt;span style=&quot;font-family: 微软雅黑; font-size: 9pt;&quot;&gt;市政设施管理服务系统&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="388.5" y="60.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-17" value="&lt;font color=&quot;#9ac7bf&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;标题&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="445" y="172.5" width="72" height="20" as="geometry" />
