@@ -40,9 +40,6 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-12" value="&lt;font size=&quot;1&quot; color=&quot;#ea6b66&quot;&gt;&lt;b style=&quot;font-size: 33px&quot;&gt;04&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="220" y="519" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#B3B3B3;size=0.08397932816537468;" parent="1" vertex="1">
-          <mxGeometry x="-266" y="668" width="1012" height="134" as="geometry" />
-        </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-14" value="&lt;font size=&quot;1&quot; color=&quot;#b3b3b3&quot;&gt;&lt;b style=&quot;font-size: 33px&quot;&gt;05&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="220" y="707.5" width="55" height="55" as="geometry" />
         </mxCell>
@@ -69,12 +66,6 @@
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-22" value="文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="698.5" y="540" width="142" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-23" value="&lt;font color=&quot;#9ac7bf&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;标题&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="794" y="692" width="72" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-24" value="文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本&lt;br&gt;文本、文本、文本、文本" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="800.5" y="736.5" width="142" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
