@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GFcemIe9M6aM9rzJbdtY-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ts1.tc.mm.bing.net/th/id/OIP-C.tS8vT51yDMqvFh0WxGrcwQHaHa?w=193&amp;h=193&amp;c=8&amp;rs=1&amp;qlt=90&amp;o=6&amp;dpr=1.5&amp;pid=3.1&amp;rm=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="289" height="289" as="geometry" />
+        <mxCell id="GFcemIe9M6aM9rzJbdtY-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ts1.tc.mm.bing.net/th/id/OIP-C.tS8vT51yDMqvFh0WxGrcwQHaHa?w=193&amp;h=193&amp;c=8&amp;rs=1&amp;qlt=90&amp;o=6&amp;dpr=1.5&amp;pid=3.1&amp;rm=2;clipPath=inset(16.09% 5.36% 17.47% 3.98%);" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="289" height="211.78625954198475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
