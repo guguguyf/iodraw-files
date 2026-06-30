@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFcemIe9M6aM9rzJbdtY-1" value="内网电脑" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ts1.tc.mm.bing.net/th/id/OIP-C.tS8vT51yDMqvFh0WxGrcwQHaHa?w=193&amp;h=193&amp;c=8&amp;rs=1&amp;qlt=90&amp;o=6&amp;dpr=1.5&amp;pid=3.1&amp;rm=2;clipPath=inset(16.09% 5.36% 17.47% 3.98%);" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="95.52" height="70" as="geometry" />
+          <mxGeometry x="40" y="38" width="95.52" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GAK69EisnjP02YVxGKMx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GFcemIe9M6aM9rzJbdtY-2" target="GFcemIe9M6aM9rzJbdtY-3">
           <mxGeometry relative="1" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="GAK69EisnjP02YVxGKMx-2" value="Oracle、Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAK69EisnjP02YVxGKMx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GAK69EisnjP02YVxGKMx-1" target="GAK69EisnjP02YVxGKMx-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
