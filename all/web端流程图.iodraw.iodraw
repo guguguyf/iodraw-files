@@ -22,21 +22,16 @@
         <mxCell id="GFcemIe9M6aM9rzJbdtY-3" value="Nginx服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="77" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GAK69EisnjP02YVxGKMx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GFcemIe9M6aM9rzJbdtY-4" edge="1">
+        <mxCell id="GAK69EisnjP02YVxGKMx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GFcemIe9M6aM9rzJbdtY-4" target="GAK69EisnjP02YVxGKMx-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513.9100000000001" y="240" as="targetPoint" />
+            <mxPoint x="514" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFcemIe9M6aM9rzJbdtY-4" value="Web端服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GAK69EisnjP02YVxGKMx-2" value="Oracle、Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="110" y="210" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GAK69EisnjP02YVxGKMx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="GAK69EisnjP02YVxGKMx-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="240" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="350" y="210" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P60axIh6aZWd1Cgu3Qcj-1" value="web端业务流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="344" y="10" width="140" height="30" as="geometry" />
