@@ -13,7 +13,7 @@
         <mxCell id="33GPS8Kq_dCJ7F5oWfM8-4" value="安全交互平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33GPS8Kq_dCJ7F5oWfM8-5" value="Nginx服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33GPS8Kq_dCJ7F5oWfM8-5" value="tomcat负载" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33GPS8Kq_dCJ7F5oWfM8-6" value="App应用服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
