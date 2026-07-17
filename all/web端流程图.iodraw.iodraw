@@ -31,15 +31,15 @@
           <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GAK69EisnjP02YVxGKMx-2" value="Oracle、Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="350" y="210" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="210" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P60axIh6aZWd1Cgu3Qcj-1" value="web端业务流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="P60axIh6aZWd1Cgu3Qcj-1" value="web端业务流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="344" y="10" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P60axIh6aZWd1Cgu3Qcj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P60axIh6aZWd1Cgu3Qcj-3" target="GFcemIe9M6aM9rzJbdtY-4">
+        <mxCell id="P60axIh6aZWd1Cgu3Qcj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P60axIh6aZWd1Cgu3Qcj-3" target="GFcemIe9M6aM9rzJbdtY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P60axIh6aZWd1Cgu3Qcj-3" value="tomcat服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P60axIh6aZWd1Cgu3Qcj-3" value="tomcat服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="77" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
