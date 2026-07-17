@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7iOJcZAqxTF5XHPNOBXS-1" value="Oracle、RDS、Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="274" y="230" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="230" width="194" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7iOJcZAqxTF5XHPNOBXS-3" value="App端业务流程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="334" y="30" width="160" height="30" as="geometry" />
